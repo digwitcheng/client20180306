@@ -12,6 +12,7 @@ namespace client20710711
 {
     public class ClientManager : IDisposable
     {
+
         public event EventHandler<MessageEventArgs> DateMessage;
         public event EventHandler<MessageEventArgs> ShowMessage;
         public delegate void ReLoadDele();
