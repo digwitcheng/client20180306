@@ -7,5 +7,9 @@ namespace client20710711
 {
     class _0307
     {
+        void test()
+        {
+
+        }
     }
 }
