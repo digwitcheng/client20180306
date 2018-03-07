@@ -52,7 +52,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="0307.cs" />
     <Compile Include="Client\APM\ClientManager.cs" />
     <Compile Include="Client\APM\TcpSocketClient.cs" />
     <Compile Include="Client\APM\TcpSocketClientConfiguration.cs" />
